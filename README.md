@@ -23,3 +23,5 @@ scipy >=  1.7.3 （积分）
 
 shapely >= 2.0.1 （障碍）
 
+借鉴：
+https://github.com/zhaohaojie1998/DRL-for-Path-Planning
